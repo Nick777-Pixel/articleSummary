@@ -68,7 +68,7 @@ const handleSubmit: EventListener = () => {
             required
             autocomplete="off"
             type="text"
-            placeholder="https://floatui.com/blog/what-is-new-in-float-ui"
+            placeholder="https://businessinsider.com/blog/what-is-new-in-float-ui"
             class="w-full mt-2"
             @input="articleUrl = $event.target.value"
             id="url"
