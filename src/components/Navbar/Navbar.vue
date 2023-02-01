@@ -14,7 +14,7 @@ import IconGithub from "../icons/IconGithub.vue";
       <ul class="flex-none">
         <li>
           <a
-            href="https://github.com/sidiDev/videoSummary"
+            href="https://github.com/"
             target="_blank"
             class="flex items-center gap-x-3 text-sm rounded-full border p-2 hover:bg-gray-50 duration-150"
           >
