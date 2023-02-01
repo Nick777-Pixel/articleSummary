@@ -13,14 +13,14 @@ import IconTwitter from "../icons/IconTwitter.vue";
         className="flex justify-center items-center gap-x-6 text-gray-500 mt-6"
       >
         <a
-          href="https://github.com/sidiDev/videoSummary"
+          href="https://github.com/"
           target="_blank"
           class="duration-150"
         >
           <IconGithub class="w-6 h-6 hover:text-gray-800" />
         </a>
         <a
-          href="https://twitter.com/sidi_jeddou_dev"
+          href="https://twitter.com/"
           target="_blank"
           class="duration-150"
         >
